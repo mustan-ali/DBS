@@ -1,7 +1,7 @@
 -- calculate the annual salary of each employee and display the result in a new column called annual_salary
 select first_name, last_name, salary*12 as "annual_salary" from employees;
 
---calaulate bonus with conditions
+--calculate bonus with conditions
 select first_name, last_name, salary*12 as "annual_salary", salary*2 as "Bonus" from employees where salary>20000;
 select first_name, last_name, salary*12 as "annual_salary", salary*3 as "Bonus" from employees where salary>15000 and salary<19000 ;
 
