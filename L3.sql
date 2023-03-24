@@ -57,7 +57,7 @@ select 'My first name is ' || first_name || ' and my salary is ' || salary from 
 --select details of the employee whose employee id is >=150 and <=155
 select first_name, last_name from employees where employee_id between 150 and 155;
 
---select details of the specific employee whose employees
+--select details of the specific employee with certain details
 select first_name, last_name from employees where employee_id in(146,150,110,100);
 select first_name, last_name from employees where job_id in('ST_CLERK');
 
