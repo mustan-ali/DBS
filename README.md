@@ -8,3 +8,4 @@ L5.  Update, Delete, Inner Join, Outter Join (Left, Right, Full) </br>
 L6.  Case Conversion Functions, Character Manipulation Functions </br>
 L7.  Mod Function, Date Functions, Type Casting, Date Formats, User Input </br>
 L8.  Case Statement, Decode function </br>
+L9.  Natural, Cross, Self Join, Union, Union All, Intersect, Minus, Create Table </br>
