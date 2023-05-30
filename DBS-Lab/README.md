@@ -11,3 +11,4 @@ L8.  Case Statement, Decode function </br>
 L9.  Natural, Cross, Self Join, Union, Union All, Intersect, Minus, Create Table </br>
 L10. Drop, Alter, Update, Delete, Truncate, Copy Table, Virtual Column </br> 
 L11. Sequence, Index, View, Procedure </br>
+L12. Function, Exception Handling, 
