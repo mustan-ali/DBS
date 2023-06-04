@@ -1,4 +1,4 @@
---creating table
+--Creating table
 create table mobile(
 mid number(6) primary key not null,
 mname varchar2 (26));
